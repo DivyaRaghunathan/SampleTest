@@ -6,6 +6,6 @@ Feature: Verify Home Page or search of iPad
     And I want to launch the application "https://www.amazon.com/"
     And I want to enter to text box "//input[@id='twotabsearchtextbox']" and a value is "iPad"
     Then I want to click on "//input[@value='Go']" text box
-  #  And I want to close the application
+  
 
 
